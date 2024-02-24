@@ -57,4 +57,10 @@ Then, access the API by navigating to `http://127.0.0.1:5000/avatar/<initials>` 
 
 Refer to Flask's [deployment options](https://www.pykit.org/deploying-a-python-flask-application-a-comprehensive-guide/) for guidance on deploying the application to a live system.
 
-[Reading Blog Article](https://www.pykit.org/simple-avatar-generation-api-guide/)
+## Guides
+
+[Building a Simple Avatar Generation API](https://www.pykit.org/simple-avatar-generation-api-guide/)
+
+[Dockerizing Your Flask Avatar API](https://www.pykit.org/dockerizing-flask-avatar-api-guide/)
+
+[Automating Docker Builds with GitHub Actions](https://www.pykit.org/automating-docker-builds-github-actions-guide/)
