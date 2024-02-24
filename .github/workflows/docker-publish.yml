@@ -24,4 +24,4 @@ jobs:
         context: .
         file: ./Dockerfile
         push: true
-        tags: ${{ secrets.DOCKER_USERNAME }}/flask-avatar-api:latest
+        tags: ${{ secrets.DOCKER_USERNAME }}/simple-default-avatar-api:latest
