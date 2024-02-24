@@ -55,6 +55,6 @@ Then, access the API by navigating to `http://127.0.0.1:5000/avatar/<initials>` 
 
 ## Deployment
 
-Refer to Flask's [deployment options](https://flask.palletsprojects.com/en/2.0.x/deploying/) for guidance on deploying the application to a live system.
+Refer to Flask's [deployment options](https://www.pykit.org/deploying-a-python-flask-application-a-comprehensive-guide/) for guidance on deploying the application to a live system.
 
 [Reading Blog Article](https://www.pykit.org/simple-avatar-generation-api-guide/)
